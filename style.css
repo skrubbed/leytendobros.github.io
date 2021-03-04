@@ -101,10 +101,22 @@ input, select {
     vertical-align:middle;
 }
 a {
-text-align: center;
-background-color: yellow;
-{	
+	max-width: 500px;
+	text-align: center;
+	outline: 2px outset #eee;
+	margin: 20px;
+	background-image: linear-gradient(#bbb, #eee);
+}
 p {
-text-align: center;
-color: red;
-{
+	max-width: 200px;
+	vertical-align: bottom;
+	text-align: center;
+	margin: auto;
+	border: 2px outset #eee;
+	padding: 5px;
+	background-image: linear-gradient(#cecece, #eee);
+	outline-color: #000;
+}​
+body {
+	background-color: linear-gradient(#000, #fff);
+}
