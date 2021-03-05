@@ -114,13 +114,13 @@ input, select {
 	max-width: 400px;
 }
 .logo {
-	max-width: 518px;
+	margin: 10px;
 }
 p {
 	max-width: 200px;
 	vertical-align: bottom;
 	text-align: center;
-	margin: auto;
+	margin: 20px;
 	border: 2px outset #eee;
 	padding: 5px;
 	background-image: linear-gradient(#cecece, #eee);
