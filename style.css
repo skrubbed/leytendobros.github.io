@@ -108,6 +108,14 @@ input, select {
 	padding: 5px;
 	background-image: linear-gradient(#bbb, #eee);
 }
+.quote {
+	color: white;
+	background-image: linear-gradient(#000, #00f);
+	max-width: 400px;
+}
+.logo {
+	max-width: 518px;
+}
 p {
 	max-width: 200px;
 	vertical-align: bottom;
@@ -119,10 +127,6 @@ p {
 	outline-color: #000;
 }​
 body {
-	background-color: #000;
+	color: #000;
 }
-.quote {
-	color: white;
-	background-image: linear-gradient(#000, #00f);
-	max-width: 400px;
-}
+
