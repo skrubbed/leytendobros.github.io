@@ -100,6 +100,14 @@ hr {
 input, select {
     vertical-align:middle;
 }
+body {
+	background-image: url("stars.gif");
+	background-color:#000;
+}
+.aesthetic {
+	position:fixed;
+	bottom:0px;
+}
 .link {
 	vertical-align: center;
 	max-width: 500px;
@@ -126,7 +134,3 @@ p {
 	background-image: linear-gradient(#cecece, #eee);
 	outline-color: #000;
 }​
-body {
-	color: #000;
-}
-
