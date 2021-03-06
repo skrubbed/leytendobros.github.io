@@ -1,7 +1,8 @@
-@keyframes special {
-	0% {left:0px; top:0px;}
-	100% {left:100%; top:100%
+body {
+	background-image: url("special2.gif");
+	background-color: #000;
 }
+
 div {
 	width: 256px;
 	height: 256px;
