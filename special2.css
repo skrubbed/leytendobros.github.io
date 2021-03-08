@@ -1,3 +1,8 @@
+.mario {
+	position:fixed;
+	bottom:32px;
+	left:50%;
+}
 body {
 	background-image: url("files/stars.gif");
 	background-color:#000;
@@ -33,7 +38,3 @@ p {
 	background-image: linear-gradient(#cecece, #eee);
 	outline-color: #000;
 }​
-.mario {
-	bottom:90%;
-	vertical-align:middle;
-}
