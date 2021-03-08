@@ -1,6 +1,7 @@
 body {
 	background-image: url("files/stars.gif");
 	background-color:#000;
+	text-align:center;
 }
 .aesthetic {
 	position:fixed;
@@ -33,5 +34,6 @@ p {
 	outline-color: #000;
 }​
 .mario {
-	top:10%;
+	bottom:90%;
+	vertical-align:middle;
 }
